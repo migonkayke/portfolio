@@ -29,7 +29,7 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 
 # Instruções de uso
 
-1. Abra a pasta do projeto, navegue até ´/src/assets/data` e adicione os detalhes do seu projeto.
+1. Abra a pasta do projeto, navegue até `/src/assets/data` e adicione os detalhes do seu projeto.
 
 2. Você encontrará todos os componentes usados ​​e poderá editar suas informações de acordo.
 
