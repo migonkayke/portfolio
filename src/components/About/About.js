@@ -23,7 +23,7 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Olá! Meu nome é <strong>Kayke Migon</strong>. Um estudante de desenvolvimento de jogos originário do Brasil. Durante minha jornada, busco aprimorar minha ética de trabalho, habilidades de comunicação e adaptabilidade.
+              Olá! Meu nome é <strong>Kayke Migon</strong>. Sou um estudante de desenvolvimento de jogos originário do Brasil. Durante minha jornada, busco aprimorar minha ética de trabalho, habilidades de comunicação e adaptabilidade.
             </ScrollAnimation>
 
             <br /><br />
