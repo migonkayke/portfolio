@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "Portfólio",
     description:
       "Meu portfólio para apresentar meus projetos e realizações.",
-    tech_stack: ["HTML", "CSS", "Javascript"],
+    tech_stack: ["ReactJS", "CSS"],
     github_url: "",
     demo_url: "https://kaykemigon.github.io",
   },
