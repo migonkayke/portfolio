@@ -43,7 +43,7 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 
 3. Implantar o aplicativo
 
-   ```bash
+```bash
 npm run deploy
 ```
 
