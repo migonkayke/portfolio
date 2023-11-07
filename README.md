@@ -10,7 +10,7 @@ Visualização ao vivo - [Clique Aqui](https://kaykemigon.github.io/)
 
 # 🛠 Instruções de instalação e configuração
 
-1. Fork e clone esse repositorio. Você precisará de NodeJs e Git instalados em sua máquina..
+1. Fork e clone esse repositorio. Você precisará de NodeJs e Git instalados em sua máquina.
 
 2. Instalação: `npm install --legacy-peer-deps`
 
