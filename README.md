@@ -12,10 +12,19 @@ Visualização ao vivo - [Clique Aqui](https://kaykemigon.github.io/)
 
 1. Fork e clone esse repositorio. Você precisará de NodeJs e Git instalados em sua máquina.
 
-2. Instalação: `npm install --legacy-peer-deps`
+2. Instalação:
 
-3. No diretório do projeto, você pode executar: `npm start`\
-Executa o aplicativo no modo de desenvolvimento.
+```bash
+npm install --legacy-peer-deps
+```
+
+3. No diretório do projeto, você pode executar:
+
+```bash
+npm start
+```
+
+Execute o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
 # Instruções de uso
@@ -34,7 +43,9 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 
 3. Implantar o aplicativo
 
-   `npm run deploy`
+   ```bash
+npm run deploy
+```
 
 ## Contribuir
 
