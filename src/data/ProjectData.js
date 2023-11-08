@@ -23,19 +23,7 @@ export const stackList = [
     name: "JavaScript",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
-    name: "NodeJS",
-  },
-  {
-    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg",
-    name: "Unreal Engine",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
   },
 ];
