@@ -23,6 +23,10 @@ export const stackList = [
     name: "JavaScript",
   },
   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg",
+    name: "MySQL",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
