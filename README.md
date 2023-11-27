@@ -10,7 +10,7 @@ Visualização ao vivo - [Clique Aqui](https://kayke.vercel.app/)
 
 # 🛠 Instruções de instalação e configuração
 
-1. Fork e clone esse repositorio. Você precisará de NodeJs e Git instalados em sua máquina.
+1. Fork e clone esse repositorio. Você precisará de [NodeJs](https://nodejs.org/en) e [Git](https://git-scm.com/downloads) instalados em sua máquina.
 
 2. Instalação:
 
