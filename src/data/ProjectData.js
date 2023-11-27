@@ -6,7 +6,7 @@ export const ProjectList = [
     description:
       "Meu portfólio para apresentar meus projetos e realizações.",
     tech_stack: ["ReactJS", "CSS"],
-    github_url: "https://github.com/kaykemigon/kaykemigon.github.io",
+    github_url: "https://github.com/kaykemigon2/portfolio",
     demo_url: "https://kayke.vercel.app/",
   },
 ];
